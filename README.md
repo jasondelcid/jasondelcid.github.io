@@ -1,2 +1,2 @@
 # jasondelcid.github.io
-Jason Del Cid's Person Portfolio
+Jason Del Cid's Personal Portfolio
